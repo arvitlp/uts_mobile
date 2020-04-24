@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Mahasiswa</string>
+    <string-array name="Agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katholik</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Congfucu</item>
+    </string-array>
+</resources>
